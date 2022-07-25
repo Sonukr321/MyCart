@@ -2,5 +2,5 @@
 $a = 25;
 $b = 35;
 $c = $a + $b;
-echo $c;
+echo "This is Output".$c;
 ?>
